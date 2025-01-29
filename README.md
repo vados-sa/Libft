@@ -1,2 +1,2 @@
 # Libft
-A custom C library recreating standard functions and adding utilities for memory management, strings, and linked lists. Part of 42's Common Core.
+Libft is a custom C library that reimplements standard C library functions such as `strlen`, `strcpy`, and `malloc`, along with additional utility functions for memory management, linked lists, and string manipulation. This project serves as a foundation for future 42 projects by reinforcing low-level programming concepts and improving proficiency in C.
